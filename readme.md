@@ -39,3 +39,4 @@ This project is licensed under the GPL3 License.
 Initial Release
 
 * Added: Activate Auto Update
+* Added: Disable eMail Notifications (Updates)
